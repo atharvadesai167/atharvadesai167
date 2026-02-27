@@ -1,6 +1,6 @@
 ### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Atharva Desai
 # 💫 About Me:
-🔭 I’m currently working on commercial CakeTown Website<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning DSA in C++
+🔭 I’m currently working on Python<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning DSA in C++
 
 
 ## 🌐 Socials:
